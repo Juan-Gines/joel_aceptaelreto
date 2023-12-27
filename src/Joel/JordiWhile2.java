@@ -15,5 +15,6 @@ public class JordiWhile2 {
                 viewers += num;
         } while (strikes < 3);
         System.out.println(viewers);
+        in.close();
     }
 }

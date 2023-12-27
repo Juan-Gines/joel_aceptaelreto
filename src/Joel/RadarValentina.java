@@ -20,6 +20,6 @@ public class RadarValentina {
       }
       System.out.println(resultat);
     }
-
+    in.close();
   }
 }

@@ -31,5 +31,6 @@ public class SumarPosNeg {
       resultat = "IGUALS";
     }
     System.out.println(resultat);
+    in.close();
   }
 }

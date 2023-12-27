@@ -7,12 +7,13 @@ public class ExplosionArcana2 {
         Scanner in = new java.util.Scanner(System.in);
         int dany = in.nextInt();
         int hp = in.nextInt();
-        int contador = 0;        
+        int contador = 0;
         do {
             contador++;
-            hp -= dany*contador;
+            hp -= dany * contador;
         } while (hp > 0);
-        
+
         System.out.println(contador);
+        in.close();
     }
 }

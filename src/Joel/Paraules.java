@@ -13,6 +13,6 @@ public class Paraules {
             String[] palabrasFrase = frase.split("\\s+");
             System.out.println(palabrasFrase.length);
         }
-       
+        in.close();
     }
 }

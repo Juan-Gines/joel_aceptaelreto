@@ -27,6 +27,7 @@ public class PiramideCartas {
 
       System.out.println(contador + " " + cartasRestantes);
     }
+    in.close();
   }
 
 }

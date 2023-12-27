@@ -27,6 +27,7 @@ public class Veri {
       } while (energia > 0);
       System.out.println(resultat + " " + contador);
     }
+    in.close();
   }
 
 }

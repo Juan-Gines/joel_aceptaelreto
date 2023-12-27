@@ -7,10 +7,11 @@ public class ExplosionArcana1 {
         Scanner in = new java.util.Scanner(System.in);
         int dany = in.nextInt();
         int explosions = in.nextInt();
-        int total = 0;        
+        int total = 0;
         for (int i = 0; i < explosions; i++) {
-            total += dany * (i +1);
+            total += dany * (i + 1);
         }
         System.out.println(total);
+        in.close();
     }
 }

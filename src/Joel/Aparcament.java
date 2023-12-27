@@ -8,13 +8,13 @@ public class Aparcament {
     public static void main(String[] args) {
         Scanner in = new java.util.Scanner(System.in);
         List<String> resultados = new ArrayList<String>();
-        int coche=1;
+        int coche = 1;
         while (coche != 0) {
             coche = in.nextInt();
             if (coche == 0)
                 break;
             coche = coche + coche / 2;
-            List<Integer> sitios = new ArrayList<Integer>();               
+            List<Integer> sitios = new ArrayList<Integer>();
             int a, b = 0;
             do {
                 a = in.nextInt();
@@ -38,6 +38,8 @@ public class Aparcament {
         for (int i = 0; i < resultados.size(); i++) {
             System.out.println(resultados.get(i));
         }
+        in.close();
+
     }
 
 }

@@ -1,7 +1,9 @@
 package Joel;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+
 public class ContarCaracters {
     public static void main(String[] args) {
         Scanner in = new java.util.Scanner(System.in);
@@ -14,11 +16,13 @@ public class ContarCaracters {
                 if (Character.isLetter(frase.charAt(i))) {
                     contador++;
                 }
-            } 
-            if(!frase.equals("FI"))letras.add(contador);          
+            }
+            if (!frase.equals("FI"))
+                letras.add(contador);
         }
         for (int i = 0; i < letras.size(); i++) {
             System.out.print(letras.get(i) + " ");
-        }        
+        }
+        in.close();
     }
 }

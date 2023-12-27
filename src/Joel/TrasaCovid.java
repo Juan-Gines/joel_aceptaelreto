@@ -19,6 +19,7 @@ public class TrasaCovid {
       }
       System.out.println(resultat);
     }
+    in.close();
 
   }
 }

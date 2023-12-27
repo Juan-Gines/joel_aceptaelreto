@@ -28,6 +28,8 @@ public class BasketMania {
         System.out.println("E " + equips.get("L") + " " + equips.get("V"));
       }
     }
+    in.close();
+
   }
 
 }
