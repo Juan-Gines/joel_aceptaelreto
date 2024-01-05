@@ -6,6 +6,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 
 - Cinquecento - nook
 - Constante de Kaprecar - nook
+- 595 - ¿ En que volumen ? - ok
 
 ## Ejercicios jo-el
 

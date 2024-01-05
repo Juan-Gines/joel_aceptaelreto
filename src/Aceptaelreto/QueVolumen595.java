@@ -1,6 +1,6 @@
 package Aceptaelreto;
 
-public class solution {
+public class QueVolumen595 {
 
   static java.util.Scanner in;
 
