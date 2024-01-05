@@ -34,6 +34,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 - Multiplica-ho tot - ok
 - Murciélago - ok
 - Control de Noms - ok
+- Parchis Parchis - ok
 - Piràmide de Cartes - ok
 - El radar de la Valentina - ok
 - Suma positius i negatius - ok
