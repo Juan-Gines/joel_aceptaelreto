@@ -30,6 +30,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 - Index de - ok
 - Jordi while 1 - ok
 - Jordi while 2 - ok
+- La Fòrmula d'Euler - ok
 - Multiplica-ho tot - ok
 - Murciélago - ok
 - Control de Noms - ok
