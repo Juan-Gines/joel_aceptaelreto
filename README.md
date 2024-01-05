@@ -25,6 +25,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 - Eleccions de patates - ok
 - El Prim i La Grosa
 - El radar de la Valentina - ok
+- Els animal preferits de Jordina - ok
 - Escala Reial - ok
 - Exclamaciones - nook (revisar por qué no comprova ¡¡)
 - Explosión Arcana 1 - ok
