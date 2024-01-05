@@ -35,6 +35,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 - La Fòrmula d'Euler - ok
 - Multiplica-ho tot - ok
 - Murciélago - ok
+- Os Shipheo - ok
 - Parchis Parchis - ok
 - Piràmide de Cartes - ok
 - Suma positius i negatius - ok
