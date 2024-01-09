@@ -11,7 +11,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 ## Ejercicios jo-el
 
 - Ambrosio trinagular - ok
-- Aparcament - nook
+- Aparcament - ok
 - BasketMania - ok
 - Bloodborne (versió Arrays) - ok
 - Cables - ok
