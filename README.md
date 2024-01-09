@@ -47,3 +47,4 @@ Ejercicios del curso de java para el curso de CP DAM.
 - Te'n recordes de... - ok
 - Top 50 - ok
 - Traçacovid - ok
+- Un dia de profit en Minecraft!(Minecraft) - ok

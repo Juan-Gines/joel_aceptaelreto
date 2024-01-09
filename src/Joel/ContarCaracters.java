@@ -11,10 +11,10 @@ public class ContarCaracters {
         String frase = "";
         while (!frase.equals("FI")) {
             frase = in.nextLine();
-            int contador = 0;
+            int contador = frase.length();
             for (int i = 0; i < frase.length(); i++) {
-                if (Character.isLetter(frase.charAt(i))) {
-                    contador++;
+                if (!Character.isLetter(frase.charAt(i))) {
+                    contador--;
                 }
             }
             if (!frase.equals("FI"))
