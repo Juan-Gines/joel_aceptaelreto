@@ -33,6 +33,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 - Explosión Arcana 2 - ok
 - Frasíndrom - ok
 - Index de - ok
+- Joan Brosa - ok
 - Jordi while 1 - ok
 - Jordi while 2 - ok
 - La Fòrmula d'Euler - ok
