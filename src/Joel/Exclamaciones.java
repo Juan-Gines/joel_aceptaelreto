@@ -14,11 +14,10 @@ public class Exclamaciones {
         for (int i = 0; i < frases.length(); i++) {
           if (frases.charAt(i) == '!') {
             tancades++;
-          } else if (frases.charAt(i) == '¡') {
+          } else if (frases.charAt(i) == 161) {// 173 es el simbol ¡
             obertas++;
           }
         }
-        System.out.println(frases.charAt(0) == '¡');
 
         if (obertas == tancades) {
           System.out.println("SI");
