@@ -8,16 +8,19 @@ public class Rimador {
     int casos = in.nextInt();
     in.nextLine();
     for (int i = 0; i < casos; i++) {
-      String operacion = in.nextLine();
-      String[] numeros = operacion.split(" ");
-      int num1 = Integer.parseInt(numeros[0]);
-      int num2 = Integer.parseInt(numeros[2]);
-      String operador = numeros[1];
-      if (operador.equals("+")) {
-        System.out.println(Integer.toBinaryString(num1 + num2));
-      } else if (operador.equals("-")) {
-        System.out.println(Integer.toBinaryString(num1 - num2));
-      } 
+      String frases = in.nextLine();
+      String[] frase = frases.split(",");
+      int indice = 1;
+      String resultat = "";
+      while (frase[0].length() - indice >= 0
+          && frase[0].charAt(frase[0].length() - indice) == frase[1].charAt(frase[1].length() - indice)) {
+        resultat = frase[0].charAt(frase[0].length() - indice) + resultat;
+        indice++;
+      }
+      if (resultat.isEmpty())
+        System.out.println("#");
+      else
+        System.out.println(resultat);
     }
     in.close();
   }
