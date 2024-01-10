@@ -14,6 +14,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 - Aparcament - ok
 - BasketMania - ok
 - Bloodborne (versió Arrays) - ok
+- Bloodborne (versió Strings) - ok
 - Cables - ok
 - Caga tio! - ok
 - Cambialo un poco - ok
