@@ -29,7 +29,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 - El radar de la Valentina - ok
 - Els animal preferits de Jordina - ok
 - Escala Reial - ok
-- Exclamaciones - nook (revisar por qué no comprova ¡¡)
+- Exclamaciones - ok
 - Explosión Arcana 1 - ok
 - Explosión Arcana 2 - ok
 - Frasíndrom - ok
@@ -38,6 +38,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 - Jordi while 1 - ok
 - Jordi while 2 - ok
 - La Fòrmula d'Euler - ok
+- No, la Maionesera no! - nok (enunciat mal formulat)
 - Multiplica-ho tot - ok
 - Murciélago - ok
 - No és patata - ok
