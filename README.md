@@ -50,6 +50,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 - Parchis Parchis - ok
 - Piràmide de Cartes - ok
 - Raid -ok
+- Rally Dakkar - ok
 - Rimador - ok
 - Suma positius i negatius - ok
 - Te'n recordes de... - ok
