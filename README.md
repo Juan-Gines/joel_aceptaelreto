@@ -35,6 +35,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 - Exclamaciones - ok
 - Explosión Arcana 1 - ok
 - Explosión Arcana 2 - ok
+- Fans Fnatic ok
 - Frasíndrom - ok
 - Index de - ok
 - Joan Brosa - ok
