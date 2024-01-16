@@ -39,6 +39,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 - Jordi while 2 - ok
 - La Fòrmula d'Euler - ok
 - No, la Maionesera no! - nok (enunciat mal formulat)
+- Maionesera - nok
 - Multiplica-ho tot - ok
 - Murciélago - ok
 - No és patata - ok
