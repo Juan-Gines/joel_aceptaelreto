@@ -25,6 +25,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 - Comptar paraules d'una frase (Paraules) - nook
 - Contar lletres de frases (ContarCaracters) - nook
 - Comptar minúscules - ok
+- Contrasenyes - ok
 - Control de Noms - ok
 - Eleccions de patates - ok
 - El Prim i La Grosa
