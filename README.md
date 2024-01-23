@@ -41,6 +41,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 - Joan Brosa - ok
 - Jordi while 1 - ok
 - Jordi while 2 - ok
+- La bossa de mà - TODO ------------------------
 - La Fòrmula d'Euler - ok
 - No, la Maionesera no! - nok (enunciat mal formulat)
 - Maionesera - nok
