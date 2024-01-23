@@ -21,6 +21,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 - Cambialo un poco - ok
 - Campió del programame - ok
 - Campió del programame2 - ok
+- Capitals - ok
 - Caracoles del Pozo - ok
 - Compte amb el Veri - ok
 - Comptar en Arrays - ok
