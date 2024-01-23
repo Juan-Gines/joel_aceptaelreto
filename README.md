@@ -23,6 +23,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 - Campió del programame2 - ok
 - Capitals - ok
 - Caracoles del Pozo - ok
+- Cercar per valor en Diccionari - ok
 - Compte amb el Veri - ok
 - Comptar en Arrays - ok
 - Comptar paraules d'una frase (Paraules) - nook
