@@ -24,6 +24,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 - Capitals - ok
 - Caracoles del Pozo - ok
 - Cercar per valor en Diccionari - ok
+- Clicks to Hitler - nok(grafos necesito mas info)
 - Compte amb el Veri - ok
 - Comptar en Arrays - ok
 - Comptar paraules d'una frase (Paraules) - nook
