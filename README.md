@@ -32,6 +32,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 - Comptar minúscules - ok
 - Contrasenyes - ok
 - Control de Noms - ok
+- Desierto del Sinai - ok
 - Eleccions de patates - ok
 - El Prim i La Grosa
 - El radar de la Valentina - ok
