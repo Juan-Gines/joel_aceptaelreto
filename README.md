@@ -54,6 +54,8 @@ Ejercicios del curso de java para el curso de CP DAM.
 - Multiplica-ho tot - ok
 - Murciélago - ok
 - No és patata - ok
+- Now Salman is my best friend - ok
+- Now Salman is my best friend 2 - nok
 - Números binaris - ok
 - Os Shipheo - ok
 - Parchis Parchis - ok
