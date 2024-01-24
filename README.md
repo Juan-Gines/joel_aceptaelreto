@@ -55,6 +55,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 - Maionesera - nok
 - Multiplica-ho tot - ok
 - Murciélago - ok
+- My Anime List - ok
 - No és patata - ok
 - Now Salman is my best friend - ok
 - Now Salman is my best friend 2 - ok
