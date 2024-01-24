@@ -55,7 +55,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 - Murciélago - ok
 - No és patata - ok
 - Now Salman is my best friend - ok
-- Now Salman is my best friend 2 - nok
+- Now Salman is my best friend 2 - ok
 - Números binaris - ok
 - Os Shipheo - ok
 - Parchis Parchis - ok
