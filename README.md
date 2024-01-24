@@ -33,6 +33,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 - Contrasenyes - ok
 - Control de Noms - ok
 - Desierto del Sinai - ok
+- Desierto del Sinai2 - ok
 - Eleccions de patates - ok
 - El Prim i La Grosa - ok
 - El primer que arribi a 5 - ok
