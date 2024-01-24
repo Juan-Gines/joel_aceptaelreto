@@ -34,7 +34,8 @@ Ejercicios del curso de java para el curso de CP DAM.
 - Control de Noms - ok
 - Desierto del Sinai - ok
 - Eleccions de patates - ok
-- El Prim i La Grosa
+- El Prim i La Grosa - ok
+- El primer que arribi a 5 - ok
 - El radar de la Valentina - ok
 - Els animal preferits de Jordina - ok
 - Escala Reial - ok

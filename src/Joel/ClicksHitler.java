@@ -1,6 +1,7 @@
 package Joel;
 
 import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Scanner;
 
@@ -11,10 +12,17 @@ public class ClicksHitler {
     for (int i = 0; i < casos; i++) {
       int lineas = in.nextInt();
       in.nextLine();
-      Map<String, String> links = new HashMap<>();
+      Map<Integer, Map<String, String>> links = new LinkedHashMap<>();
+      int rutes = 0;
+      boolean nuevo = true;
       for (int j = 0; j < lineas; j++) {
         String[] linea = in.nextLine().split("->");
-        links.put(linea[0], linea[1]);
+        if (nuevo) {
+          Map<String, String> aux = new HashMap<>();
+          rutes++;
+          nuevo = false;
+        }
+
       }
       String inici = in.nextLine();
       int clicks = 0;
