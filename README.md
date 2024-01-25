@@ -40,6 +40,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 - El radar de la Valentina - ok
 - Els animal preferits de Jordina - ok
 - Escala Reial - ok
+- Estamos traviesos, Web Casteller - ok
 - Exclamaciones - ok
 - Explosión Arcana 1 - ok
 - Explosión Arcana 2 - ok
