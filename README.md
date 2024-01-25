@@ -68,6 +68,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 - Rally Dakkar - ok
 - Rimador - ok
 - Suma positius i negatius - ok
+- Surtido 1 - ok
 - Te'n recordes de... - ok
 - Top 50 - ok
 - Traçacovid - ok
