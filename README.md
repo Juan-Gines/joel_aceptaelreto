@@ -69,6 +69,7 @@ Ejercicios del curso de java para el curso de CP DAM.
 - Rimador - ok
 - Suma positius i negatius - ok
 - Surtido 1 - ok
+- Surtido 2 - ok
 - Te'n recordes de... - ok
 - Top 50 - ok
 - Traçacovid - ok
